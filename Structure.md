@@ -61,6 +61,7 @@
       5. Comments will work like a feedback to writer.
       6. Comments can have links of other blogs and websites , can have youtube video links for reference
       7. Comments can be used as a publicity things or another way for writers to promote their article and themeselves.
-
-
+4. Tags
+5. Categories
+6. Subjects
 
